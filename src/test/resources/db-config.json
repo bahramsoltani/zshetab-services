@@ -1,0 +1,10 @@
+{
+  "user": "pswitch",
+  "password": "pswitch125",
+  "url": "jdbc:oracle:thin:@10.15.1.61:1521:PCARD",
+  "maxPoolSize": 1
+}
+
+
+
+
